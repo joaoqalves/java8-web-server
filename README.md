@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a web server made with Java 8. To run it, you don't need any special dependency. All the relevant code for the server is available at ``net.joaoqalves.core```.
+This is a web server made with Java 8. To run it, you don't need any special dependency. All the relevant code for the server is available at ``net.joaoqalves.core``.
 
 ## Example application demo
 
