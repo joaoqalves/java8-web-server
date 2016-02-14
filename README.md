@@ -6,7 +6,7 @@ This is a web server made with Java 8. To run it, you don't need any special dep
 
 ## Example application demo
 
-There is an example application demo available at ``http://demo01.joaoqalves.net``.
+There is an example application demo available <a href="http://goo.gl/0fnqIV" target="_blank">here</a>.
 
 ### Available resources
 
@@ -36,7 +36,7 @@ The back-end is using an [H2 database](http://www.h2database.com/html/main.html)
 
 ### Further considerations
 
-In this demo instance, the database is restored each 10 minutes. Each user has a 5 minutes session after his last action.
+In this demo instance, the database is restored each 10 minutes, through a ``cron`` job. Each user has a 5 minutes session after his last action.
 
 ## How to build and execute it
 
