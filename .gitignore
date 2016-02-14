@@ -1,0 +1,15 @@
+# Database
+database./
+
+# Compiled artifacts
+target/
+
+# IntelliJ files
+*.iml
+.idea/
+
+# Python virtualenv
+.venv/
+
+# Maven Shade
+dependency-reduced-pom.xml
