@@ -36,7 +36,7 @@ The back-end is using an [H2 database](http://www.h2database.com/html/main.html)
 
 ### Further considerations
 
-In this demo instance, the database is restored each 10 minutes.
+In this demo instance, the database is restored each 10 minutes. Each user has a 5 minutes session after his last action.
 
 ## How to build and execute it
 
